@@ -1,0 +1,3 @@
+recursive-include ocr_jasper common.onnx
+recursive-include ocr_jasper common_old.onnx
+recursive-include ocr_jasper common_det.onnx
